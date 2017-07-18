@@ -15,5 +15,7 @@ Training: [Des applications ultra-rapides avec Node.js][training-url]
     * Partage d'une todolist entre plusieurs personnes
     * Synchronisation de la todolist en temps réel entre les personnes sans avoir besoin de recharger la page
 
+## Exercise two
+
 [training-url]: https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js
 [practical-works-one-url]: https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js/tp-la-todo-list

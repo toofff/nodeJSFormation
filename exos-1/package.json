@@ -2,9 +2,12 @@
   "name": "myTodoList",
   "version": "0.1.0",
   "dependencies": {
-    "express": "~4.11.0",
-    "ejs": "~2.1.4",
+    "body-parser": "~1.10.1",
     "cookie-session": "~1.1.0",
-    "body-parser": "~1.10.1"
+    "ejs": "~2.1.4",
+    "express": "~4.11.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "socket.io": "^2.0.3"
   }
 }
